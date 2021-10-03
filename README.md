@@ -20,7 +20,7 @@ To install all necessary dependencies run the following command:
     npm install
 
 ## Usage
-For local usage, clone the repo on you local manchine and open in an IDE. If you haven't already, make sure you have node.js installed as well as npm (check installation: `node -v` & `npm -v`). In the packages root directory, run `npm i` to install the necessary dependencies. Running `npm i` from the root directory will install dependencies for the client and server directories. If you run into issues installing, try deleting all `package-lock.json` files, then running `npm i` from the root. Once installation complete, run `npm run develop` from the root directory to concurrenly start both the client-side React server and server-side Express.js server. If both servers start up correctly, the app should launch in your default browser.
+For local usage, clone the repo on you local manchine and open in an IDE. If you haven't already, make sure you have node.js installed as well as npm (check installation: `node -v` & `npm -v`). In the packages root directory, run `npm i` to install the necessary dependencies. Running `npm i` from the root directory will install dependencies for the client and server directories. If you run into issues installing, try deleting all `package-lock.json` files, then running `npm i` from the root. Once installation complete, run `npm run develop` from the root directory to concurrently start both the client-side React server and server-side Express.js server. If both servers start up correctly, the app should launch in your default browser.
 
 ## Deployed Application
 https://book-search-engine-eh.herokuapp.com/
