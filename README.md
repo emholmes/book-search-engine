@@ -3,7 +3,7 @@
 ## MERN Challenge
 
 ## Description
-This weeks module challenge is focused on our knowledge of the MERN tech stack (MongoDB, Express.js, React, and Node.js) as well as introducing GraphQL and Apollo Server. The starter code contained a fully-functioning Book Search Engine using the Google Books API search engine built with a RESTful API. The challenge is to refactor the app to use a GraphQL API wtih  Apollo Server and Apollo Client. GraphQL, an API query language that returns the data we need and nothing more. Apollo Server allows for GraphQL integration with the Express.js server and Apollo Client integrates GraphQL with React.
+This weeks module challenge is focused on our knowledge of the MERN tech stack (MongoDB, Express.js, React, and Node.js) as well as introducing GraphQL, Apollo Server, and JSON Web Tokens. The starter code contained a fully-functioning Book Search Engine using the Google Books API search engine built with a RESTful API. The challenge is to refactor the app to use a GraphQL API with Apollo Server and Apollo Client. GraphQL is an API query language that returns the data we need and nothing more. Apollo Server allows for GraphQL integration with the Express.js server and Apollo Client integrates GraphQL with React. And JSON Web Tokens are another way of using session cookies for user authentication. 
 
 Deployed Application: https://book-search-engine-eh.herokuapp.com/
 
